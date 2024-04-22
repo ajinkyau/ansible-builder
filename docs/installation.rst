@@ -22,9 +22,9 @@ Install from PyPi
 
 .. note::
 
-   An **alternative** approach to install ``ansible-builder`` is using the ``ansible-dev-tools`` package.
+   An **alternative** approach to installing ``ansible-builder`` is using the ``ansible-dev-tools`` package.
    `Ansible Development Tools (ADT) <https://ansible.readthedocs.io/projects/dev-tools/>`_ is a single Python package that includes all necessary tools to
-   set up a development environment, generate new collections, build and test the content consistently, resulting in robust automation.
+   set up a development environment, generate new collections, build and test the content.
 
    .. code-block:: shell
 
